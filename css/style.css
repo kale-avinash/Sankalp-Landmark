@@ -2468,7 +2468,7 @@ a:focus {
 .contact .contact-text p {
     margin: 0;
     color: #ffffff;
-    font-size: 12px;
+    font-size: 18px;
 }
 
 .contact .contact-item:last-child {
@@ -2719,5 +2719,8 @@ a:focus {
     .footer .copyright .col-md-6:last-child p {
         margin: 5px 0;
         text-align: center;
+    }
+    .contact .contact-text p {
+        font-size: 12px;
     }
 }
