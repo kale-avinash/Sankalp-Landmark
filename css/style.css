@@ -489,6 +489,12 @@ a:focus {
     .section-header h2 {
         font-size: 30px;
     }
+        .email-link {
+            font-size: 2px;
+        }
+    
+    
+    
 }
 
 
@@ -2462,7 +2468,7 @@ a:focus {
 .contact .contact-text p {
     margin: 0;
     color: #ffffff;
-    font-size: 16px;
+    font-size: 12px;
 }
 
 .contact .contact-item:last-child {
